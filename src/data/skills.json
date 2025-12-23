@@ -1,0 +1,35 @@
+{
+  "Frontend": [
+    { "name": "React", "level": 90 },
+    { "name": "JavaScript", "level": 90 },
+    { "name": "HTML/CSS", "level": 95 }
+  ],
+  "Backend": [
+    { "name": "Java SpringBoot", "level": 90 },
+    { "name": "Node.js", "level": 70 },
+    { "name": "Python", "level": 70 }
+  ],
+  "Database": [
+    { "name": "MySQL", "level": 85 },
+    { "name": "MSSQL", "level": 80 },
+    { "name": "MongoDB", "level": 80 }
+  ],
+   "Cloud & DevOps": [
+    { "name": "AWS", "level": 75 },
+    { "name": "Azure", "level": 75 },
+    { "name": "GitHub Actions", "level": 85 }
+  ],
+  "Tools": [
+    { "name": "Git", "level": 85 },
+    { "name": "VS Code", "level": 90 },
+    { "name": "IntelliJ IDEA", "level": 85 },
+    { "name": "PyCharm", "level": 85 }
+  ],
+  "Testing and QA": [
+    { "name": "Postman", "level": 75 },
+    { "name": "Selenium", "level": 75 },
+    { "name": "xUnit / JUnit", "level": 70},
+    { "name": "JMeter", "level": 75 },
+    { "name": "Playwright", "level": 75 }
+  ]
+}

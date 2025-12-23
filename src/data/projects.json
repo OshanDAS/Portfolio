@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Heladeepa Bookshop – E-Commerce Platform",
+    "description": "Full-stack e-commerce web application for a bookshop",
+    "tech": "Java, Spring Boot, React, MySQL, JWT, Cloudinary, PayHere, OCR",
+    "details": "Developed a production-ready full-stack e-commerce platform with separate admin and customer interfaces. Designed RESTful APIs using Spring Boot following layered architecture and implemented secure JWT-based authentication with role-based access control. Integrated PayHere for online payments and Cloudinary for scalable image storage. Implemented an OCR-based bulk booklist upload feature supporting both English and Sinhala, significantly reducing manual data entry. Focused on clean API design, data validation, error handling, and responsive frontend UI using React.",
+    "github": "https://github.com/OshanDAS/Heladeepa-Bookshop-ECommerce.git"
+  },
+  {
+    "id": 2,
+    "title": "Algorithm Battle Arena",
+    "description": "Real-time competitive coding and algorithm battle platform",
+    "tech": ".NET, C#, React, SignalR, MSSQL, xUnit, Selenium, JMeter",
+    "details": "Built a real-time competitive coding platform enabling users to participate in algorithm battles, view live matches, and track performance statistics. Implemented authentication, user profiles, and player ranking systems. Used SignalR to enable real-time lobbies, matchmaking, and live chat functionality. Applied clean architecture principles in the backend and conducted comprehensive testing using xUnit for unit tests, Selenium for end-to-end testing, Postman scripting for API validation, and JMeter for load and performance testing.",
+    "github": "https://github.com/OshanDAS/algorthm-battle-arena.git"
+  },
+  {
+    "id": 3,
+    "title": "Distributed Logging System",
+    "description": "Fault-tolerant and time-synchronized distributed logging system",
+    "tech": "Java, gRPC, Distributed Systems, Quorum Replication, NTP",
+    "details": "Designed and implemented a fault-tolerant distributed logging system using Java and gRPC with a modular and extensible architecture. Implemented quorum-based replication to ensure consistency and availability during node failures. Added heartbeat-based failure detection for real-time health monitoring of nodes. Integrated NTP-based time synchronization to maintain consistent log ordering across distributed servers and implemented log deduplication using unique identifiers to avoid duplicate entries.",
+    "github": "https://github.com/KumarageKPV/distributed-logging-system"
+  },
+  {
+    "id": 4,
+    "title": "Travel Ease",
+    "description": "AI-powered cross-platform travel assistant mobile application",
+    "tech": "React Native, Node.js, REST APIs, JWT, Postman",
+    "details": "Developed an AI-powered cross-platform mobile travel assistant using React Native that generates personalized travel itineraries. Designed and implemented RESTful APIs using Node.js with a focus on scalability and clean API contracts. Implemented JWT-based authentication with secure role-based access control. Enabled users to create, edit, and manage itineraries with cost estimation and activity scheduling. Thoroughly tested APIs using Postman and ensured smooth frontend-backend integration.",
+    "github": "https://github.com/OshanDAS/TravelEase.git"
+  },
+  {
+    "id": 5,
+    "title": "Personal Portfolio Website",
+    "description": "Responsive personal portfolio showcasing projects and technical skills",
+    "tech": "React, HTML, CSS, JavaScript",
+    "details": "Designed and developed a modern, fully responsive personal portfolio website using React. Implemented reusable components, dynamic project rendering, and smooth navigation to enhance user experience. Focused on clean UI/UX design, performance optimization, and cross-browser compatibility. The portfolio highlights academic and personal projects, technical skill sets, and links to GitHub and LinkedIn for professional visibility.",
+    "github": "https://github.com/OshanDAS/Portfolio.git"
+  }
+]
